@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohsen Bakhit (known as @bakhitmohsen on this place)
+- 👋 Hi, I’m Mohsen Bakhit (known as @bakhitmohsen on this place). I am a recent high school graduate.
 - 👀 I’m interested in Software Engineering and AI Development
 - 🌱 I’m currently learning <em>C++</em> and Full Stack Web Development on my own while studying Computer Science as my major.
 - 💞️ I’m looking to collaborate on any project that is available for someone new to the industry.
